@@ -1,3 +1,3 @@
 # workshopfabrica2026.2-git
 
-oi
+oi, essse é um commit de teste
