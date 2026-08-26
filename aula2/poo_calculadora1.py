@@ -19,10 +19,10 @@ c1 = Calculadora()
 
 valor1 = float(input('Primeiro valor: '))
 valor2 = float(input('Segundo valor: '))
-print('Digite 1 para somar          (+)')
-print('Digite 2 para subtrair       (-)')
-print('Digite 3 para multiplicar    (*)')
-print('Digite 4 para dividir        (/)')
+print('Digite 1 para somar       (+)')
+print('Digite 2 para subtrair    (-)')
+print('Digite 3 para multiplicar (*)')
+print('Digite 4 para dividir     (/)')
 
 op = int(input('Informe a sua opção: '))
 
